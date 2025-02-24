@@ -24,7 +24,7 @@
 
 以下是精选的国内优质 **ChatGPT 镜像网站**，无需翻墙就能使用：
 - [chat.yixiaai.com](https://chat.yixiaai.com/) - **ChatGPT 镜像网站**，2023年3月上线，运行稳定，支持 GPT-4、4o 以及 o1，支持 MJ 绘画。
-- [chat.lify.vip](https://chat.yixiaai.com/) - **ChatGPT 中文版**，运营近2年，支持 GPT-4、4o 以及 o1，具备 AI文件、AI助手、AI插件、AI PPT等。
+- [chat.lify.vip](https://www.yixiaai.com/) - **ChatGPT 中文版**，运营近2年，支持 GPT-4、4o 以及 o1，具备 AI文件、AI助手、AI插件、AI PPT等。
 - [guide1.lanjing.ai](https://guide1.lanjing.ai/) - **ChatGPT 使用指南**，运营超过1年，支持 GPT-4、4o，支持AI绘画（Midjourney和Dall·E）。
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - **ChatGPT-4 镜像站**，支持 GPT-4、4o，操作简单便捷。
 - [lanjing.ai](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT-4、4o 支持 MJ 绘画。
